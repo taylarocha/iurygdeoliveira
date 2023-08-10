@@ -11,7 +11,7 @@ Meu nome é Tayla Rocha de Araújo, estudo no Instituto Federal do Tocantins - I
 <ul>
   <li>
     <img src="https://t.ctcdn.com.br/eXQweorgzzB_ARsw7I9Bvp4O_Qg=/400x400/smart/filters:format(webp)/i489927.jpeg" width="18" alt="Instagram">
-    <a href="https://www.youtube.com/channel/UCTM1Idirf0ALOdEdq31qkjg?view_as=subscriber" target="_blank" title="My Youtube">Instagram</a>
+    <a href="https://www.youtube.com/channel/UCTM1Idirf0ALOdEdq31qkjg?view_as=subscriber" target="_blank" title="My Youtube">Instagra</a>
   </li>
   <li>
 </ul>
